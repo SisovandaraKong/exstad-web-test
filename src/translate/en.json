@@ -1,0 +1,542 @@
+{
+  "hello": "Hello",
+  "welcome": "Welcome to my website",
+  "our-program": "Our Program",
+  "explore-course": "Explore Course",
+  "scholar": "Scholar",
+  "roadmap": "Roadmap",
+  "about-us": "About Us",
+  "log-in": "Log In",
+  "logout": "Log Out",
+  "enroll-now": "Enroll Now",
+  "search-courses": "Search courses...",
+  "scholarship": "Scholarship",
+  "short-courses": "Short Courses",
+  "scholarship-courses": "Scholarship Courses",
+  "program-type": "Program Type",
+  "level": "Level",
+  "all": "All",
+  "basic": "Basic",
+  "intermediate": "Intermediate",
+  "advanced": "Advanced",
+  "deadline": "Deadline",
+  "duration": "Duration",
+  "total-slots": "Total Slots",
+  "reset-filters": "Reset Filters",
+  "filter": "Filter",
+  "overview": "Overview",
+  "curriculum": "Curriculum",
+  "timeline": "Timeline",
+  "activity": "Activity",
+  "scan-with-your-phone": "Scan with your phone to access the mobile enrollment form",
+  "cost": "Cost",
+  "number": "Number",
+  "be-ready-for-your-journey": "Be ready for your journey at the university",
+  "total": "Total",
+  "courses-found": "Courses Found",
+  "load-more": "Load More",
+  "show-less": "Show Less",
+  "generation": "Generation",
+  "months": "months",
+  "hours": "hours",
+  "programOverview": "Program Overview",
+  "learningOutcome": "Learning Outcome",
+  "courseRequirement": "Course Requirement",
+  "frequentlyAskedQuestion": "Frequently Asked Question ?",
+  "JAN": "JAN",
+  "FEB": "FEB",
+  "MAR": "MAR",
+  "APR": "APR",
+  "MAY": "MAY",
+  "JUN": "JUN",
+  "JUL": "JUL",
+  "AUG": "AUG",
+  "SEP": "SEP",
+  "OCT": "OCT",
+  "NOV": "NOV",
+  "DEC": "DEC",
+  "application-period": "Application Period",
+  "applicant-list": "Applicant List",
+  "writing-test": "Writing Test",
+  "interview-test": "Interview Test",
+  "final-result": "Final Result",
+  "preliminary-learning": "Preliminary Learning",
+  "orientation": "Orientation",
+  "course-training": "Course Training",
+  "sports-activities":"Sports Activities",
+  "final-project": "Final Project",
+  "closing-day": "Closing Day",
+  "enrollment": "Enrollment",
+  "full-name-en": "Full Name (en)",
+  "full-name-kh": "Full Name (kh)",
+  "gender": "Gender",
+  "dob": "Date of Birth",
+  "grade": "Grade (Bac II)",
+  "university": "University",
+  "how-long-have-you-been-learning-programming": "How long have you been learning programming?",
+  "how-do-you-know-istad": "How do you know ISTAD?",
+  "istad-will-create-it-bacchelor-degree-course-from-next-year": "ISTAD will create IT bachelor degree course from next year for BacII student. Would you like to recommend someone this course? What is your reason?",
+  "opening-program": "Opening Program",
+  "shift": "Shift",
+  "current-address": "Current Address",
+  "phone-number": "Phone Number",
+  "email": "Email",
+  "education-qualification": "Education Qualification",
+  "any-request": "Any Request to ISTAD",
+  "picture-file": "Picture File",
+
+  "place-of-birth": "Place of Birth",
+  "not-found": "Not Found",
+	
+
+	"footer": {
+		"description": "exSTAD is an experimental technology learning space for Cambodian students, especially those who want to explore ISTAD's scholarship program.",
+		"explore": "EXPLORE",
+		"bachelor-degree": "Bachelor Degree",
+		"short-courses": "Short Courses",
+		"scholarship": "Scholarship",
+		"news-events": "News & Events",
+		"support-legal": "SUPPORT & LEGAL",
+		"about-us": "About Us",
+		"faqs": "FAQs",
+		"privacy-policy": "Privacy Policy",
+		"address-contact": "ADDRESS & CONTACT",
+		"address-line1": "#40, St 273, Sangkat Boeung Kak II, Khan Toul Kork, Phnom Penh, Cambodia",
+		"our-sponsors": "OUR SPONSORS",
+		"copyright": "© 2025 exSTAD - Institute of Science and Technology Advanced Development (ISTAD)",
+		"all-rights-reserved": "All rights reserved.",
+		"telegram": "Telegram",
+		"email": "Email",
+		"facebook": "Facebook"
+	},
+	"scan": "Please scan for registration payment.",
+	"note": "Note: This QR code is for one-time payment only! A new QR code will be generated for future payments, please do not keep it.",
+	"expires": "This QR code will expire in ",
+	"Download": " Download QR",
+
+	"select-grade": "Select Grade",
+	"select-university": "Select University",
+	"select-education-qualification": "Select Education Qualification",
+	"select-opening-program": "Select Opening Program",
+	"select-month-or-year": "Select Month or Year",
+	"select-gender": "Select Gender",
+	"select-place-of-birth": "Select Place of Birth",
+	"select-shift": "Select Shift",
+	"message": "Message...",
+	"select-current-address": "Select Current Address",
+	"picture": "Avatar",
+	"upload-picture": "please upload a photo where your face is visible",
+	"type-of-file": "SVG, PNG or JPG, file size no more than 10MB",
+	"male": "Male",
+	"female": "Female",
+	"grade-a": "Grade A",
+	"grade-b": "Grade B",
+	"grade-c": "Grade C",
+	"grade-d": "Grade D",
+	"year": "Year",
+	"select-year": "Select Year",
+	"major": "Major",
+	"select-major": "Select Major",
+	"search-university": "Search University...",
+	"search-address": "Search Address...",
+	"search-opening-program": "Search Opening Program...",
+
+	"less-than-3-months": "Less than 3 months",
+	"less-than-6-months": "Less than 6 months",
+	"less-than-12-months": "Less than 12 months",
+	"more-than-1-year": "More than 1 year",
+	"never": "Never",
+	"other": "Other",
+
+	"your-payment-was-successful": "Your payment was successful!",
+	"thank-you": "Thank you for your payment. We will be in contact with more details shortly.",
+	"close": "Close",
+
+	"amount": "Amount",
+	"name": "Name",
+	"date-of-birth": "Date of Birth",
+	"program": "Program",
+	"loading": "Loading",
+	"details": "Details",
+	"payment": "Payment",
+	"success": "Success",
+	"join-telegram-group": "Join Telegram Group",
+
+	"hero": {
+		"badge": "Start your IT Career with ISTAD",
+		"title-part1": "Advanced IT Institute",
+		"title-part2": "in Cambodia",
+		"description": "Transform your career with cutting-edge IT education. Join thousands of successful graduates who chose EXSTAD for their digital transformation journey.",
+		"explore-programs": "Explore Programs",
+		"watch-story": "Watch Story"
+	},
+
+	"main-cards": {
+		"short-courses": {
+			"title": "Short Courses",
+			"description": "Intensive learning programs designed to enhance your skills quickly.",
+			"button": "Explore Courses"
+		},
+		"scholarship": {
+			"title": "Scholarship Chances",
+			"description": "Financial support awarded to help students pursue their education.",
+			"button": "Explore Scholarships"
+		}
+	},
+
+	"offerings": {
+		"title": "What We Offer",
+		"subtitle": "Explore different courses and scholarships that can help you advance towards your career goals.",
+		"course-programs": "Course Programs",
+		"course-programs-desc": "Comprehensive courses for skill development",
+		"career-opportunities": "Career Opportunities",
+		"career-opportunities-desc": "Complete career guidance for future jobs",
+		"industry-partnerships": "Industry Partnerships",
+		"industry-partnerships-desc": "Connections with leading companies",
+		"learning-experience": "Learning Experience",
+		"learning-experience-desc": "Modern and comprehensive learning environment"
+	},
+
+	"statistics": {
+		"title": "Solutions with great results",
+		"subtitle": "Our presence is remarkable in delivering quality IT education.",
+		"total-students": "Total Students",
+		"graduation-rate": "Graduation Rate",
+		"job-placement": "Job Placement",
+		"study-abroad": "Study Abroad",
+		"outsourcing": "Outsourcing",
+		"startup-company": "Startup Company"
+	},
+
+	"testimonials": {
+		"title": "Student Testimonials",
+		"subtitle": "Hear real experiences from our students",
+		"student-graduate": "Graduate Students",
+		"current-student": "Current Students",
+		"alumni": "Alumni"
+	},
+
+	"partnerships": {
+		"title": "Our Value Partners",
+		"subtitle": "We collaborate with valued partners from various sectors across Cambodia and abroad."
+	},
+
+	"why-choose": {
+		"title": "Why Choose ISTAD?",
+		"subtitle": "Unlock your true potential and discover a world of opportunities that align with your skills, interests, and aspirations",
+		"advanced-tech-focus": {
+			"title": "Advanced Science and Technology Focus",
+			"description": "ISTAD guides students toward modern science, technology, and digital skill development."
+		},
+		"career-opportunities": {
+			"title": "Strong Career Opportunities",
+			"description": "Graduates are guaranteed excellent job placements with top IT companies."
+		},
+		"high-quality-training": {
+			"title": "High-Quality Training",
+			"description": "The institute provides up-to-date teaching methods and learning roadmaps."
+		},
+		"best-choice-it": {
+			"title": "Best Choice for IT Aspirants",
+			"description": "It's the ideal place for those who want to become IT experts in Cambodia."
+		}
+	},
+
+	"statistics-section": {
+		"title": "Outstanding Career Achievement",
+		"subtitle": "Discover where our graduates excel in their professional journey across diverse industries.",
+		"categories": {
+			"international-tech": "International Tech Company",
+			"study-abroad": "Study Abroad",
+			"outsourcing": "Outsourcing",
+			"startup-company": "Startup Company",
+			"istad": "ISTAD",
+			"officer": "Officer",
+			"bank-finance": "Bank & Finance",
+			"technology-company": "Technology Company"
+		}
+	},
+
+	"offerings-section": {
+		"title": "What can we do for you?",
+		"subtitle": "Providing tailored solutions, expert support, and innovative services to meet your needs.",
+		"cards": {
+			"scholarship-updates": {
+				"title": "Scholarship Updates",
+				"description": "Stay informed with the latest scholarship opportunities tailored for tech and innovation students."
+			},
+			"career-roadmaps": {
+				"title": "Career Roadmaps",
+				"description": "Explore structured IT career paths that guide you step-by-step toward your professional goals."
+			},
+			"skill-development": {
+				"title": "Skill Development",
+				"description": "Gain practical skills through short courses designed to prepare you for real-world challenges."
+			},
+			"learning-resources": {
+				"title": "Learning Resources",
+				"description": "Access curated study materials, hands-on projects, and learning tools all in one place."
+			},
+			"success-stories": {
+				"title": "Success Stories",
+				"description": "Get inspired by students who secured scholarships and built thriving IT careers."
+			},
+			"global-opportunities": {
+				"title": "Global Opportunities",
+				"description": "Connect with worldwide opportunities in technology and education to expand your horizons."
+			}
+		}
+	},
+
+	"course-sections": {
+		"popular-courses": "Popular Courses",
+		"recommended-courses": "Recommended Courses"
+	},
+
+	"welcoming-section": {
+		"badge": "Welcome to the Future",
+		"title": "Welcome to",
+		"title-brand": "exSTAD",
+		"description": "exSTAD is an experimental technology learning space for Cambodian students, especially those who want to explore ISTAD's scholarship program, products, and achievements in a unified digital platform.",
+		"features": {
+			"students": "5000+ Students",
+			"success-rate": "95% Success Rate",
+			"curriculum": "Modern Curriculum"
+		},
+		"button": "Up Your Skill"
+	},
+
+	"language-loading": {
+		"switching-title": "Switching Language",
+		"switching-from-to": "Changing from {from} to {to}"
+	},
+
+	"about-page": {
+		"hero": {
+			"title": "Welcome to EXSTAD",
+			"subtitle": "Your gateway to innovative education",
+			"description": "exSTAD is an experimental technology learning space for Cambodian students, especially those who want to explore ISTAD's scholarship program, products, and achievements in a unified digital platform."
+		},
+		"mission": {
+			"title": "OUR MISSION",
+			"subtitle": "Our exSTAD is committed to:",
+			"points": {
+				"methodology": "Provide the latest methodology with high-quality training and mentoring",
+				"capacity": "Build up the capacity and career of IT experts in Cambodia",
+				"consulting": "Consult and connect ISTAD trainees to top IT careers"
+			}
+		},
+		"vision": {
+			"title": "VISION",
+			"subtitle": "Advanced IT Institute in Cambodia",
+			"points": {
+				"innovation-hub": {
+					"title": "Innovation Hub",
+					"description": "Creating the next generation of tech innovators and entrepreneurs"
+				},
+				"global-impact": {
+					"title": "Global Impact",
+					"description": "Connecting Cambodian talent with worldwide opportunities"
+				},
+				"excellence-standard": {
+					"title": "Excellence Standard",
+					"description": "Consult and connect ISTAD trainees to top IT careers"
+				}
+			}
+		},
+		"core-values": {
+			"title": "Our Core Values",
+			"subtitle": "The principles that guide everything we do",
+			"values": {
+				"innovation": {
+					"title": "Innovation",
+					"description": "Provide the latest methodology with high-quality training and mentoring"
+				},
+				"accessibility": {
+					"title": "Accessibility",
+					"description": "Build up the capacity and career of IT experts in Cambodia"
+				},
+				"excellence": {
+					"title": "Excellence",
+					"description": "Consult and connect ISTAD trainees to top IT careers"
+				}
+			}
+		},
+		"team": {
+			"mentors": {
+				"title": "Our Mentors",
+				"description": "Great accomplishments are born from great guidance — and we owe ours to a remarkable mentors."
+			},
+			"members": {
+				"title": "Origin Software Engineer",
+				"description": "No achievement is possible without teamwork — and ours thrives because of remarkable teammates."
+			}
+		},
+		"cta": {
+			"title": "Ready to Start Your Journey?",
+			"description": "Join thousands of students who have transformed their lives through our programs",
+			"button": "Explore Courses"
+		},
+		"statistics": {
+			"title": "Future-Ready Education",
+			"items": {
+				"technology": "Technology Integration",
+				"partnerships": "Industry Partnerships",
+				"success": "Graduate Success Rate",
+				"recognition": "Global Recognition"
+			}
+		}
+	},
+
+	"contact-form": {
+		"title": "Consult with Us",
+		"description": "Want to enhance your knowledge or start your learning journey? Reach out — we're here to guide and support you.",
+		"email-section": {
+			"title": "Email Us",
+			"email": "info.istad@gmail.com",
+			"label": "Mail"
+		},
+		"social-section": {
+			"title": "Follow Us"
+		},
+		"form": {
+			"name-placeholder": "Name",
+			"email-placeholder": "Email",
+			"subject-placeholder": "Subject",
+			"message-placeholder": "Message",
+			"send-button": "Send Message",
+			"sending": "Sending...",
+			"validation-error": "Please fill out all required fields.",
+			"success-message": "Message sent successfully! We'll get back to you soon.",
+			"error-message": "Failed to send message. Please try again."
+		}
+	},
+
+	"common": {
+		"up-your-skill": "Up Your Skill",
+		"learn-more": "Learn More",
+		"get-started": "Get Started",
+		"view-all": "View All",
+		"read-more": "Read More"
+	},
+	"technologies-in-use":"Technologies in Use",
+	 "Scholar": {
+    "hero": {
+      "title1": "From Classrooms to Careers",
+      "title2": "The Journey of Our Abroad Scholars",
+      "subtitle": "Where learning turns into leadership and dreams into reality"
+    },
+
+    "marquee": {
+      "empty": "No specialists found."
+    },
+    "load": {
+      "error": "Failed to load scholars."
+    },
+
+    "spotlight": {
+      "badge": "Scholar Spotlight",
+      "viewStory": "View Full Story",
+      "empty": "No employed scholars to spotlight yet."
+    },
+
+    "section2": {
+      "title": "The Success Blueprint for ISTAD Alumni",
+      "step1": {
+        "title": "Build a Strong Foundation",
+        "desc": "Learn core IT skills"
+      },
+      "step2": {
+        "title": "Putting Skills into Practice",
+        "desc": "Practice what you’ve learned"
+      },
+      "step3": {
+        "title": "Mastery and Leadership",
+        "desc": "Become an expert, lead projects"
+      }
+    },
+
+    "section3": {
+      "badge": "Scholar Spotlight"
+    },
+
+    "section4": {
+      "title": "Discover Our exSTAD Scholar",
+	  "subtitle":"Find the best student for your company and boost your business too."
+    },
+
+    "labels": {
+      "generation": "Generation",
+      "unnamed": "Unnamed Scholar",
+      "scholar": "Scholar"
+    },
+
+    "a11y": {
+      "viewProfile": "View {name}'s profile",
+      "prev": "Previous scholar",
+      "next": "Next scholar"
+    }
+  },
+
+  "Profile": {
+    "loading": {
+      "profile": "Loading profile..."
+    },
+    "error": {
+      "loadProfile": "Failed to load profile for {username}"
+    },
+
+    "a11y": {
+      "avatarAlt": "{name}'s avatar"
+    },
+
+    "about": {
+      "title": "About",
+      "empty": "No bio yet."
+    },
+
+    "social": {
+      "title": "Social Media",
+      "externalLink": "Open {title}"
+    },
+
+    "certificates": {
+      "title": "Certificate",
+      "empty": "No certificates to display yet.",
+      "verified": "Verified",
+      "unverified": "Unverified",
+      "open": "Open certificate",
+      "card": {
+        "title": "Certificate"
+      },
+      "error": {
+        "title": "Failed to load certificates",
+        "detail": "Error:",
+        "generic": "An error occurred while fetching certificates."
+      }
+    },
+
+    "achievements": {
+      "title": "Achievement",
+      "empty": "No achievements yet.",
+      "video": "Video Demo",
+      "projectLink": "Project Link",
+      "error": {
+        "title": "Failed to load achievements",
+        "detail": "Error:",
+        "generic": "An error occurred while fetching achievements."
+      }
+    },
+
+    "courses": {
+      "title": "Completed Courses",
+      "empty": "No completed courses yet."
+    },
+
+    "actions": {
+      "tryRefresh": "Try refreshing the page",
+      "seeMore": "See more",
+      "seeLess": "See less"
+    }
+  }
+}

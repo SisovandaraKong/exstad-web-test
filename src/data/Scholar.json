@@ -1,0 +1,91 @@
+{
+  "MOCK_SCHOLARS": [
+    {
+      "id": 1,
+      "name": "Mr. Sobon",
+      "title": "1st Generation ITE Student, Doctoral Candidate of the Republic of Korea",
+      "image": "/image/sobon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Sinmany",
+      "title": "1st Generation ITE Student, Doctoral Candidate of the Republic of Korea",
+      "image": "/image/sinmany.png"
+    },
+    {
+      "id": 3,
+      "name": "Ms. Sophea",
+      "title": "1st Generation ITE Student, Doctoral Candidate of the Republic of Korea",
+      "image": "/image/sophea.JPG"
+    },
+    {
+      "id": 4,
+      "name": "Ms. Sreyphea",
+      "title": "1st Generation ITE Student, Doctoral Candidate of the Republic of Korea",
+      "image": "/image/sreyphea.JPG"
+    },
+    {
+      "id": 5,
+      "name": "Mr. Reach",
+      "title": "1st Generation ITE Student, Doctoral Candidate of the Republic of Korea",
+      "image": "/image/reach.JPG"
+    }
+  ],
+  "MOCK_SCHOLARS_2": [
+    {
+      "id": 1,
+      "name": "Kong Sisovandara",
+      "title": "Preuniversity",
+      "quote": "The roots of education are bitter, but the fruit is sweet",
+      "category": "Pre University",
+      "image": "/image/panha.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chan Dara",
+      "title": "Foundation",
+      "quote": "Learning today, leading tomorrow",
+      "category": "Foundation",
+      "image": "/image/reach.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sokha Mey",
+      "title": "Full Stack Web",
+      "quote": "Code is the language of the future",
+      "category": "Full Stack Web",
+      "image": "/image/sinmany.png"
+    },
+    {
+      "id": 4,
+      "name": "Rith Sopheak",
+      "title": "ITE",
+      "quote": "Innovation through education",
+      "category": "ITE",
+      "image": "/image/sobon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rith Sopheak",
+      "title": "ITE",
+      "quote": "Innovation through education",
+      "category": "ITE",
+      "image": "/image/sophea.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rith Sopheak",
+      "title": "ITE",
+      "quote": "Innovation through education",
+      "category": "ITE",
+      "image": "/image/sreyphea.jpg"
+    }
+  ],
+  "SPOTLIGHT": {
+    "image": "/image/sobon.jpg",
+    "badge": "Scholar Spotlight",
+    "headline": "លោក ផុន​ សុបុណ្យ | ITE 1st Generation",
+    "sub": "Data Analytics",
+    "description": "ក្រសួងប្រៃសណីយ៍និងទូរកមនាគមន៍(MPTC) ISTAD គឺជាវិទ្យាស្ថានដែលបណ្តុះបណ្តាលនិស្សិតទៅលើបច្ចេកវិទ្យាថ្មីៗ​ ដែលប្រកបដោយគុណភាពខ្ពស់ជំនាញច្បាស់លាស់ហើយនិស្សិតនិងមានអាកាសការងារល្អៗនៅពេលបញ្ចប់ការសិក្សា"
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "logo": "/image/Picture1.png",
+    "title": "JobSeek",
+    "description": "Final Project Achievement. JobSeek is a modern and user-friendly job portal designed to connect job seekers with employers...",
+    "link": "http://www.example.org",
+    "demo": "Video Demo",
+    "date": "18 August 2025",
+    "type": "Foundation"
+  },
+  {
+    "id": 2,
+    "logo": "/image/Picture2.png",
+    "title": "FluentEdu",
+    "description": "FluentEdu is a modern and interactive education platform for language learners worldwide...",
+    "link": "http://www.example.org",
+    "demo": "Video Demo",
+    "date": "25 August 2025",
+    "type": "Foundation"
+  },
+  {
+    "id": 3,
+    "logo": "/image/Picture4.png",
+    "title": "FluentEdu",
+    "description": "FluentEdu is a modern and interactive education platform for language learners worldwide...",
+    "link": "http://www.example.org",
+    "demo": "Video Demo",
+    "date": "25 August 2025",
+    "type": "Foundation"
+  },
+  {
+    "id": 4,
+    "logo": "/logos/fluent.png",
+    "title": "FluentEdu",
+    "description": "FluentEdu is a modern and interactive education platform for language learners worldwide...",
+    "link": "http://www.example.org",
+    "demo": "Video Demo",
+    "date": "25 August 2025",
+    "type": "Foundation"
+  },
+  {
+    "id": 5,
+    "logo": "/logos/fluent.png",
+    "title": "FluentEdu",
+    "description": "FluentEdu is a modern and interactive education platform for language learners worldwide...",
+    "link": "http://www.example.org",
+    "demo": "Video Demo",
+    "date": "25 August 2025",
+    "type": "Foundation"
+  }
+]

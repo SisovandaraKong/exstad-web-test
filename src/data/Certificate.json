@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "logo": "/image/CertificateNoName-01.png",
+    "title": "JobSeek"
+  },
+  {
+    "id": 2,
+    "logo": "/image/CertificateNoName-01.png",
+    "title": "FluentEdu"
+  },
+  {
+    "id": 3,
+    "logo": "/image/CertificateNoName-01.png",
+    "title": "FluentEdu"
+  },
+  {
+    "id": 4,
+    "logo": "/image/CertificateNoName-01.png",
+    "title": "FluentEdu"
+  },
+  {
+    "id": 5,
+    "logo": "/image/CertificateNoName-01.png",
+    "title": "FluentEdu"
+  }
+]

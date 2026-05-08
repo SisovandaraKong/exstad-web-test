@@ -1,0 +1,28 @@
+/**
+ * SwiperSlideComponent.module.css
+ *
+ * @format
+ */
+
+/* This targets the Swiper container for our component instance */
+.swiperContainer {
+	width: 100%;
+	height: auto;
+	padding: 40px 0; /* Adjust padding as needed */
+	box-sizing: border-box;
+}
+.swiperContainer :global(.swiper-pagination-bullet) {
+	opacity: 1;
+	width: 10px;
+	height: 10px;
+	background-color: #c4c4c4;
+	margin: 0 6px !important;
+	border-radius: 50%;
+	transition: all 0.3s ease;
+}
+
+.swiperContainer :global(.swiper-pagination-bullet-active) {
+	background-color: #253c95;
+	width: 32px; /* Creates the "pill" shape when active */
+	border-radius: 6px;
+}

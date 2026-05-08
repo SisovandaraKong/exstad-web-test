@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Pre University Course",
+    "description": "Be ready for your journey at the university.",
+    "imageUrl": "https://png.pngtree.com/png-vector/20241119/ourmid/pngtree-portrait-of-a-young-male-student-with-books-and-backpack-representing-png-image_14499889.png",
+    "bgColor": "#ffffff",
+    "leftText": "Learn More",
+    "rightText": "Successfully Completed"
+  },
+  {
+    "id": "2",
+    "title": "Foundation Course",
+    "description": "Grow your skill, starting with the foundation.",
+    "imageUrl": "https://pngimg.com/uploads/student/student_PNG164.png",
+    "bgColor": "linear-gradient(135deg, #E5F2FF 0%, #ffffff 100%)",
+    "leftText": "Learn More",
+    "rightText": "Successfully Completed"
+  },
+    {
+    "id": "3",
+    "title": "Foundation Course",
+    "description": "Grow your skill, starting with the foundation.",
+    "imageUrl": "https://pngimg.com/uploads/student/student_PNG164.png",
+    "bgColor": "linear-gradient(135deg, #E5F2FF 0%, #ffffff 100%)",
+    "leftText": "Learn More",
+    "rightText": "Successfully Completed"
+  },
+    {
+    "id": "4",
+    "title": "Foundation Course",
+    "description": "Grow your skill, starting with the foundation.",
+    "imageUrl": "https://pngimg.com/uploads/student/student_PNG164.png",
+    "bgColor": "linear-gradient(135deg, #E5F2FF 0%, #ffffff 100%)",
+    "leftText": "Learn More",
+    "rightText": "Successfully Completed"
+  }
+]

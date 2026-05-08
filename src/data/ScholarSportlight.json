@@ -1,0 +1,52 @@
+{
+  "scholarsSpotlight": [
+    {
+      "id": 1,
+      "image": "/image/sobon.jpg",
+      "badge": "Top Scholar",
+      "headline": "ExSTAD Scholar of the Year",
+      "sub": "Achieving excellence abroad",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scholar 1 description goes here."
+    },
+    {
+      "id": 2,
+      "image": "/image/reach.jpg",
+      "badge": "Rising Star",
+      "headline": "Innovative Thinker",
+      "sub": "Pushing boundaries in tech",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scholar 2 description goes here."
+    },
+    {
+      "id": 3,
+      "image": "/image/sinmany.jpg",
+      "badge": "Leadership Award",
+      "headline": "Future Leader",
+      "sub": "Inspiring the next generation",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scholar 3 description goes here."
+    },
+    {
+      "id": 4,
+      "image": "/image/sophea.jpg",
+      "badge": "Innovation Award",
+      "headline": "Creative Problem Solver",
+      "sub": "Making a difference worldwide",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scholar 4 description goes here."
+    },
+    {
+      "id": 5,
+      "image": "/image/sreyphea.jpg",
+      "badge": "Innovation Award",
+      "headline": "Creative Problem Solver",
+      "sub": "Making a difference worldwide",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scholar 5 description goes here."
+    },
+    {
+      "id": 6,
+      "image": "/image/yith_sopheaktra.jpg",
+      "badge": "Innovation Award",
+      "headline": "Creative Problem Solver",
+      "sub": "Making a difference worldwide",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scholar 6 description goes here."
+    }
+  ]
+}

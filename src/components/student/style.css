@@ -1,0 +1,5 @@
+/* Hide local fallbacks as soon as the shared avatar is positioned */
+:root[data-shared-avatar-ready="true"] .avatar-fallback {
+  opacity: 0;
+  transition: opacity .18s ease;
+}
