@@ -1,6 +1,5 @@
 import { EnrollmentDetail } from "@/features/enrollment/enrollmentApi";
 import { Enrollment } from "@/types/enrollment";
-import { date } from "zod";
 
 export function enrollmentMessageFormatter(enrollment: Enrollment): string {
   const divider = "━━━━━━━━━━━━━━━━━━━━";

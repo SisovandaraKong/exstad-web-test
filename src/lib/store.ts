@@ -6,7 +6,7 @@ import { masterprogramApi } from "@/components/program/masterProgramApi";
 import { programOverviewsApi } from "@/components/program/detail-program/overview/programOverviewApi";
 import { requiementApi } from "@/components/program/detail-program/requirement/requirementsApi";
 import { enrollmentApi } from "@/features/enrollment/enrollmentApi";
-import { combineReducers, configureStore, current } from "@reduxjs/toolkit";
+import { combineReducers, configureStore } from "@reduxjs/toolkit";
 import { persistReducer, persistStore } from "redux-persist";
 import { roadmapApi } from "@/features/roadmapApi";
 import storage from "redux-persist/lib/storage";
